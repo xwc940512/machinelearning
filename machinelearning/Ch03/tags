@@ -1,0 +1,31 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+arrow_args	treePlotter.py	/^arrow_args = dict(arrowstyle="<-")$/;"	v
+calcShannonEnt	1.py	/^def calcShannonEnt(dataSet):$/;"	f
+calcShannonEnt	trees.py	/^def calcShannonEnt(dataSet):$/;"	f
+chooseBestFeatureToSplit	1.py	/^def chooseBestFeatureToSplit(dataSet):$/;"	f
+chooseBestFeatureToSplit	trees.py	/^def chooseBestFeatureToSplit(dataSet):$/;"	f
+classify	trees.py	/^def classify(inputTree,featLabels,testVec):$/;"	f
+createDataSet	1.py	/^def createDataSet():$/;"	f
+createDataSet	trees.py	/^def createDataSet():$/;"	f
+createPlot	treePlotter.py	/^def createPlot(inTree):$/;"	f
+createTree	1.py	/^def createTree(dataSet labels):$/;"	f
+createTree	trees.py	/^def createTree(dataSet,labels):$/;"	f
+decisionNode	treePlotter.py	/^decisionNode = dict(boxstyle="sawtooth", fc="0.8")$/;"	v
+getNumLeafs	treePlotter.py	/^def getNumLeafs(myTree):$/;"	f
+getTreeDepth	treePlotter.py	/^def getTreeDepth(myTree):$/;"	f
+grabTree	trees.py	/^def grabTree(filename):$/;"	f
+leafNode	treePlotter.py	/^leafNode = dict(boxstyle="round4", fc="0.8")$/;"	v
+majorityCnt	1.py	/^def majorityCnt(classList):$/;"	f
+majorityCnt	trees.py	/^def majorityCnt(classList):$/;"	f
+plotMidText	treePlotter.py	/^def plotMidText(cntrPt, parentPt, txtString):$/;"	f
+plotNode	treePlotter.py	/^def plotNode(nodeTxt, centerPt, parentPt, nodeType):$/;"	f
+plotTree	treePlotter.py	/^def plotTree(myTree, parentPt, nodeTxt):#if the first key tells you what feat was split on$/;"	f
+retrieveTree	treePlotter.py	/^def retrieveTree(i):$/;"	f
+splitDataSet	1.py	/^def splitDataSet(dataSet, axis, value):$/;"	f
+splitDataSet	trees.py	/^def splitDataSet(dataSet, axis, value):$/;"	f
+storeTree	trees.py	/^def storeTree(inputTree,filename):$/;"	f
